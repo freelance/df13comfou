@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nro: MyString
+  apellido: MyString
+  nombre: MyString
+  jerarquia: MyString
+  cargo: MyString
+  destinoactual: MyString
+  uurr: MyString
+  funcion: MyString
+  documento: MyString
+  titulo: MyString
+  establecimiento: MyString
+
+two:
+  nro: MyString
+  apellido: MyString
+  nombre: MyString
+  jerarquia: MyString
+  cargo: MyString
+  destinoactual: MyString
+  uurr: MyString
+  funcion: MyString
+  documento: MyString
+  titulo: MyString
+  establecimiento: MyString

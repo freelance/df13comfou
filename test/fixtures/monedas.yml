@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  5c: 1
+  10c: 1
+  25c: 1
+  50c: 1
+  1$: 1
+  2$: 1
+  caja_id: 
+
+two:
+  5c: 1
+  10c: 1
+  25c: 1
+  50c: 1
+  1$: 1
+  2$: 1
+  caja_id: 

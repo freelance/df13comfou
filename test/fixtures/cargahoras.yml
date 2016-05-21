@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  objetivo_id: 
+  legajo_id: 
+  user_id: 
+  horas: 1
+  fecha: 2016-05-12
+
+two:
+  objetivo_id: 
+  legajo_id: 
+  user_id: 
+  horas: 1
+  fecha: 2016-05-12

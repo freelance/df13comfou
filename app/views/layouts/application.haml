@@ -4,14 +4,17 @@
     %meta{:name => "viewport", :content => "width=device-width, initial-scale=1.0"}
     %title= content_for?(:title) ? yield(:title) : 'D13compfou'
     %meta{:name => "description", :content => "#{content_for?(:description) ? yield(:description) : 'D13compfou'}"}
-    = stylesheet_link_tag 'application', media: 'all'
+    = stylesheet_link_tag 'application'
     -# Modernizr is required for Zurb Foundation
     = javascript_include_tag 'vendor/modernizr'
     = javascript_include_tag 'application'
     = csrf_meta_tags
   %body
-    %header
-      = render 'layouts/navigation'
-    %main{:role => "main"}
-      = render 'layouts/messages'
-      = yield
+
+  %header
+  = render 'layouts/navigation'
+  %main{:role => "main"}
+  = render 'layouts/messages'
+  = yield
+
+

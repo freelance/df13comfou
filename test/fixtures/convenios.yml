@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codigo: MyString
+  inicio: 2016-05-16
+  fin: 2016-05-16
+  objetivo_id: 
+  observaciones: MyText
+  activo: false
+
+two:
+  codigo: MyString
+  inicio: 2016-05-16
+  fin: 2016-05-16
+  objetivo_id: 
+  observaciones: MyText
+  activo: false
